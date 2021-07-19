@@ -6,7 +6,7 @@
 [instagram](https://www.instagram.com/ne.prav/)
 
 ### Education
-SPBPU, Higher School of Software Engineering, 3rd year bachelor's degree. Specialty: "Software Engineering"
+SPBPU, Higher School of Software Engineering, 4rd year bachelor's degree. Specialty: "Software Engineering"
 
 ### Additional Education
 * ["C++ Development Fundamentals: Red Belt"](https://www.coursera.org/account/accomplishments/verify/42YX7EXVJKBV?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course) by Moscow Institute of Physics and Technology, Yandex and E-Learning Development Fund
