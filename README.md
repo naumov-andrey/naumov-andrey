@@ -1,9 +1,8 @@
 ## Andrey Naumov
 
 ### Contacts And Links
-[telegram](https://t.me/naumov_andrei)\
-[vk](https://vk.com/ne.prav)\
-[instagram](https://www.instagram.com/ne.prav/)
+[LinkedIn](https://www.linkedin.com/in/andreinaumov/)\
+[Telegram](https://t.me/naumov_andrei)
 
 ### Education
 SPBPU, Higher School of Software Engineering, 4rd year bachelor's degree. Specialty: "Software Engineering"
