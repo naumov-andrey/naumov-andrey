@@ -1,8 +1,8 @@
 ## Andrey Naumov 🦎
 
 ### Contacts And Links
-[LinkedIn](https://www.linkedin.com/in/andreinaumov/)\
-[Telegram](https://t.me/naumov_andrei)
+[LinkedIn](https://www.linkedin.com/in/naumov-andrey/)\
+[Telegram](https://t.me/naumov_andrey)
 
 ### Work Expirience
 **Dell Technologies**\
