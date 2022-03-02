@@ -1,4 +1,4 @@
-## Andrey Naumov (@naumov-andrey) 🌸
+## Andrey Naumov (@naumov-andrey) 🌺
 
 📫 [LinkedIn](https://www.linkedin.com/in/naumov-andrey/) | [Telegram](https://t.me/naumov_andrey)
 
