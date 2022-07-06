@@ -4,25 +4,16 @@
 
 ### Work Expirience
 
+**Junior Golang Developer**\
+*Linxdatacenter*\
+04.2022 — now
+
 **Intern Software Engineer**\
 *Dell Technologies*\
-02.2021 — 01.2022
-
-Development:
-
-* Fixing bugs and developing features in several internal projects (React, Spring Boot, PostgreSQL, Python)
-
-DevOps:
-
-* Containerization with Docker & Docker Compose
-* Deploying VMs in VMware vSphere
-
-QA:
-
-* Automation of CLI testing in Python
-* Creating test plans, work with the test systems (QC, qTest)
+02.2021 — 02.2022
 
 ### Education
 
-4rd year bachelor's degree: **Software Engineering**, SPBSTU
-
+**Software Engineering**\
+*SPBSTU*\
+bachelor's degree
