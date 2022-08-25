@@ -4,7 +4,7 @@
 
 ### Work Expirience
 
-**Junior Golang Developer**\
+**Golang Developer**\
 *Linxdatacenter*\
 04.2022 — now
 
