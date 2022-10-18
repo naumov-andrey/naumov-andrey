@@ -4,9 +4,13 @@
 
 ### Work Expirience
 
-**Golang Developer**\
+**Software Developer**\
+*YADRO*\
+10.2022 — now
+
+**Junior Golang Developer**\
 *Linxdatacenter*\
-04.2022 — now
+04.2022 — 10.2022
 
 **Intern Software Engineer**\
 *Dell Technologies*\
