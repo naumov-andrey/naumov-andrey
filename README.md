@@ -6,18 +6,18 @@
 
 **Software Developer**\
 *YADRO*\
-10.2022 — now
+10.2022–now
 
 **Junior Golang Developer**\
 *Linxdatacenter*\
-04.2022 — 10.2022
+04.2022–10.2022
 
 **Intern Software Engineer**\
 *Dell Technologies*\
-02.2021 — 02.2022
+02.2021–02.2022
 
 ### Education
 
-**Software Engineering**\
+**Bachelor of Software Engineering**\
 *SPBSTU*\
-bachelor's degree
+2018–2022
