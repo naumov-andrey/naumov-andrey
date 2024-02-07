@@ -1,23 +1,10 @@
-# Naumov Andrey (@naumov-andrey)
+# Hi ✌️
+
+**Software Engineer** @ YADRO
+
+- Writing on Go
+- Web developer
+- Love technical books, me on [LiveLib](https://www.livelib.ru/reader/naumov_andrey) (RU)
+- Better to write than to talk
 
 📫 [LinkedIn](https://www.linkedin.com/in/naumov-andrey/) | [Telegram](https://t.me/naumov_andrey)
-
-### Work Expirience
-
-**Software Developer**\
-*YADRO*\
-10.2022–now
-
-**Junior Golang Developer**\
-*Linxdatacenter*\
-04.2022–10.2022
-
-**Intern Software Engineer**\
-*Dell Technologies*\
-02.2021–02.2022
-
-### Education
-
-**Bachelor of Software Engineering**\
-*SPBSTU*\
-2018–2022
